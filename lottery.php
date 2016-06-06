@@ -14,7 +14,7 @@ $obj = json_decode($json, true);
 ?>
 
 <head>
-  <title>Lotto</title>
+  <title>Lotto checker in PHP</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
